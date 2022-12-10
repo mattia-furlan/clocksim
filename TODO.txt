@@ -1,0 +1,5 @@
+TODO LIST:
+
+    - New settings
+    - mo3 format
+    - New modalities: digital clock, right/wrong, one side only, BLD
