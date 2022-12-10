@@ -36,9 +36,15 @@ Click on the colored rectangles to change them.
 
 As with the controls, the colors are saved in a settings file too.
 
+
+![Settings](https://github.com/mattia-furlan/clocksim/blob/main/imgs/clocksim_settings.png)
+
 ## STATISTICS AND PBs 
 The program saves the PBs on a file called 'clockPBs.bin' in you home folder.
 Don't try to change it otherwise it will be corrupted and you will lose your PBs.
 
 When you quit the sim the session does not get reset because the simulator automatically saves the solves on a file called 'clocksession.bin' in your home folder.
 Don't try to change it otherwise it will be corrupted and you will lose your solves.
+
+
+![PBs](https://github.com/mattia-furlan/clocksim/blob/main/imgs/clocksim_pbs.png)
