@@ -2,7 +2,7 @@
 
 Rubik's Clock simulator written by Mattia Furlan (2016).
 
-![Clock simulator](https://github.com/mattia-furlan/blocksim/blob/main/imgs/clocksim.PNG?raw=true)
+![Clock simulator](https://github.com/mattia-furlan/clocksim/main/imgs/clocksim.PNG)
 
 
 ## SOLVING
